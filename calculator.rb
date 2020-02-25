@@ -5,4 +5,5 @@
 #quotient
 
 
-first_number = 
+first_number = 2.0 
+second_number = 4.0 
