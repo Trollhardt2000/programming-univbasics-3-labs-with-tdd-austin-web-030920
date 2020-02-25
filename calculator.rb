@@ -1,9 +1,8 @@
 #make up 2 numbers
-#sum
+#sum stored as a variable 
 #difference
-#
-
-
+#product
+#quotient
 
 
 first_number = 
